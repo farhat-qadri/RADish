@@ -1,0 +1,10 @@
+venv/
+data/application_data (sample).csv
+data/previous_application (sample).csv
+data/radish_merged_data.csv
+*.csv
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
